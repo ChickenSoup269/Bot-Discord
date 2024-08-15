@@ -1,6 +1,6 @@
 # BOT DISCORD
 
-### Đây là bot discord tính chi phí tiêu dùng hàng ngày do người dùng nhập vào xuất ra tổng chi phí tiêu dùng trong ngày, tháng, năm, mỗi ngày xuất ra hôm nay bạn tiêu được bao nhiêu tiền, tuần này bạn đã chi ra bao nhiêu, tháng, năm...
+#### Đây là bot discord tính chi phí tiêu dùng hàng ngày do người dùng nhập vào xuất ra tổng chi phí tiêu dùng trong ngày, tháng, năm, mỗi ngày xuất ra hôm nay bạn tiêu được bao nhiêu tiền, tuần này bạn đã chi ra bao nhiêu, tháng, năm...
 
 ## Cách hệ thống hoạt động
 
@@ -13,6 +13,8 @@ Chi tiêu hôm nay của bạn bao gồm là gì? | mời bạn chọn số đ�
 - Tiền điện & nước [5]
 -
 -
+
+*botToken: là API key discord các bạn tự lấy
 
 ## Chức năng của bot [BETA - ĐANG PHÁT TRIỂN THÊM]
  
@@ -28,7 +30,7 @@ Chi tiêu hôm nay của bạn bao gồm là gì? | mời bạn chọn số đ�
 | `!monthly_expenses` |Hiển thị tổng chi tiêu từ đầu tháng đến hôm nay. |
 | `!yearly_expenses [year]` | *Hiển thị tổng chi tiêu từ đầu năm đến hôm nay. Nếu không nhập [year], sẽ hiển thị chi tiêu của năm hiện tại. |
 | `!Help` | Hiển thị danh sách các lệnh có thể sử dụng với ZeroBot. |
-   
+
 # Pip
 ### Linux/macOS
 ```bash
