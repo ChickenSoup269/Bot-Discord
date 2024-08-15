@@ -1,6 +1,6 @@
-# BOT DISCORD
+# BOT DISCORD [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
-#### Đây là bot discord tính chi phí tiêu dùng hàng ngày do người dùng nhập vào xuất ra tổng chi phí tiêu dùng trong ngày, tháng, năm, mỗi ngày xuất ra hôm nay bạn tiêu được bao nhiêu tiền, tuần này bạn đã chi ra bao nhiêu, tháng, năm...
+Đây là bot discord tính chi phí tiêu dùng hàng ngày do người dùng nhập vào xuất ra tổng chi phí tiêu dùng trong ngày, tháng, năm, mỗi ngày xuất ra hôm nay bạn tiêu được bao nhiêu tiền, tuần này bạn đã chi ra bao nhiêu, tháng, năm...
 
 ## Cách hệ thống hoạt động
 
@@ -14,7 +14,16 @@ Chi tiêu hôm nay của bạn bao gồm là gì? | mời bạn chọn số đ�
 -
 -
 
-*botToken: là API key discord các bạn tự lấy
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+-> how to get https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
+
+`BotToken`: API_KEY
+
+
 
 ## Chức năng của bot [BETA - ĐANG PHÁT TRIỂN THÊM]
  
