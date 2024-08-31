@@ -71,7 +71,10 @@ Start
 ## Screenshots
 
 ![App Screenshot](https://github.com/ChickenSoup269/Bot-Discord/blob/main/Screenshots/Screenshot%202024-08-15%20201704.png)
+
 ![App Screenshot](https://github.com/ChickenSoup269/Bot-Discord/blob/main/Screenshots/Screenshot%202024-08-15%20215019.png)
+
 ![App Screenshot](https://github.com/ChickenSoup269/Bot-Discord/blob/main/Screenshots/Screenshot%202024-08-15%20215043.png)
+
 ![App Screenshot](https://github.com/ChickenSoup269/Bot-Discord/blob/main/Screenshots/image.png)
 
