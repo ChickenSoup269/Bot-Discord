@@ -30,7 +30,7 @@ To run this project, you will need to add the following environment variables to
 | Command | Description                |
 | :-------- |  :------------------------- |
 | `!hello` |  Gửi lời chào theo thời gian trong ngày. |
-| `!goodbyey` | Gửi lời tạm biệt theo thời gian trong ngày. |
+| `!goodbye` | Gửi lời tạm biệt theo thời gian trong ngày. |
 | `!goldprices` |  Hiển thị giá vàng hiện tại.  |
 | `!is_leap_year [year]` |  Kiểm tra xem năm [year] có phải là năm nhuận hay không. |
 | `!add_expense [category] [description] [amount] [quantity]` | Thêm một chi tiêu với số lượng và tổng tiền VND. |
